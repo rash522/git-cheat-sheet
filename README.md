@@ -14,7 +14,7 @@
 
 - [7 Git Techniques](7%20Git%20Techniques.pdf)
 
-# Top 5 Git Commands by `@Sahilandsarra`
+# Top 5 Git Commands by `@Sahil Gaba`
 
 - `git rebase` - Similar to `git merge`. but this leaves your commit history much clearner.
 - `git fetch` - Similar to `git pull`. but this only fetches the changes from the remote server, but does not merge them.
