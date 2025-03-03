@@ -2,9 +2,9 @@
 
 ![git logo](https://github.com/itsme-rash522/git-cheat-sheet/assets/127365805/0f7cf904-0207-418b-93b6-f57c3c4073f7)
 
-- [GitHub Education](pdf\github-education.pdf)
-- [GitLab](pdf\gitlab.pdf)
-- [Atlassian](pdf\atlassian.pdf)
+- [GitHub Education](pdf/github-education.pdf)
+- [GitLab](pdf/gitlab.pdf)
+- [Atlassian](pdf/atlassian.pdf)
 
 ## Git Documentation
 
@@ -12,7 +12,7 @@
 
 ## Git Techniques
 
-- [7 Git Techniques](pdf\git-techniques.pdf)
+- [7 Git Techniques](pdf/git-techniques.pdf)
 
 ## Top 5 Git Commands by `@Sahil Gaba`
 
